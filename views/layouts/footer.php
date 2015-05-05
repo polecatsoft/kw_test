@@ -1,0 +1,2 @@
+<script type="text/javascript" src="<?php echo Core::app()->request()->baseUrl(); ?>/js/jquery-2.1.4.min.js?v=1"></script>
+<script type="text/javascript" src="<?php echo Core::app()->request()->baseUrl(); ?>/js/main.js?v=1"></script>
